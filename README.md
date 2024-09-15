@@ -26,5 +26,9 @@ The goal of this project is to develop a machine learning model that can accurat
 - **Model Evaluation**: Outputs the F1 score and confusion matrix to evaluate model performance.
 
 ##Results
-_ I have uploaded the images of results
+F1 Score
+The F1 score is used as the primary metric to evaluate the model’s performance. It is calculated using:
+
+from sklearn.metrics import f1_score
+f1 = f1_score(y_test, y_pred)
 
