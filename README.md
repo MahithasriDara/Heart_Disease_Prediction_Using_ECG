@@ -28,7 +28,7 @@ The goal of this project is to develop a machine learning model that can accurat
 ##Results
 F1 Score
 The F1 score is used as the primary metric to evaluate the model’s performance. It is calculated using:
-
+python
 from sklearn.metrics import f1_score
 f1 = f1_score(y_test, y_pred)
 
