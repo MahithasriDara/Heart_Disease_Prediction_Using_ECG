@@ -6,9 +6,6 @@ This project uses ECG signal data and a Random Forest classifier to predict hear
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Usage](#usage)
-- [Model Training](#model-training)
-- [Prediction](#prediction)
 - [Results](#results)
 
 
