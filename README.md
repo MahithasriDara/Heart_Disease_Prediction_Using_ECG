@@ -25,4 +25,6 @@ The goal of this project is to develop a machine learning model that can accurat
 - **Hyperparameter Tuning**: Uses `RandomizedSearchCV` to find the best hyperparameters for the Random Forest model.
 - **Model Evaluation**: Outputs the F1 score and confusion matrix to evaluate model performance.
 
+##Results
+_ I have uploaded the images of results
 
