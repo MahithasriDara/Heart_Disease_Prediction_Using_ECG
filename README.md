@@ -25,10 +25,21 @@ The goal of this project is to develop a machine learning model that can accurat
 - **Hyperparameter Tuning**: Uses `RandomizedSearchCV` to find the best hyperparameters for the Random Forest model.
 - **Model Evaluation**: Outputs the F1 score and confusion matrix to evaluate model performance.
 
-##Results
-F1 Score
-The F1 score is used as the primary metric to evaluate the model’s performance. It is calculated using:
-python
-from sklearn.metrics import f1_score
-f1 = f1_score(y_test, y_pred)
+## Results
+
+
+
+### Confusion Matrix
+
+The confusion matrix below shows the model's performance on the test data:
+
+![Confusion Matrix](matrix.png)
+
+### Feature Importance
+
+The plot below shows the F1_score:
+
+![F1 score](f1_score.png)
+
+
 
