@@ -31,6 +31,9 @@ The goal of this project is to develop a machine learning model that can accurat
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/your-username/heart-disease-prediction.git
    cd heart-disease-prediction
+   pip install -r requirements.txt
+pip install heartpy
+
