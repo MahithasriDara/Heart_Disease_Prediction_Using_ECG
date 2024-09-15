@@ -33,7 +33,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    bash
    git clone https://github.com/MahithasriDara/heart-disease-prediction.git
-   cd heart-disease-prediction
+cd heart-disease-prediction
    pip install -r requirements.txt
 pip install heartpy
 
